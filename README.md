@@ -1,4 +1,4 @@
-# 🧠 Soluções de Codeforces
+# 🧠 Soluções do Codeforces
 
 Este repositório reúne minhas soluções para problemas resolvidos na plataforma [Codeforces](https://codeforces.com/). Estou usando esses desafios como forma de praticar algoritmos, estruturas de dados e melhorar minhas habilidades de raciocínio lógico.
 
